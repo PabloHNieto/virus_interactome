@@ -8,6 +8,8 @@ build/
 .installed.cfg
 *.egg
 CLAUDE.local.md
+diagrams.md
+diagrams_out/
 INTERACTOME_DOC.md
 Testing_pipeline.md
 virus_interactome/scripts/
